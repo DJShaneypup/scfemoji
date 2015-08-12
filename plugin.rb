@@ -1,6 +1,6 @@
 # name: SCEMOJI
 # about: adds an evil trout emoji
-# version: 0.2.4
+# version: 0.2.5
 # authors: DJShaneypup, DanTheDak
 # url: https://github.com/DJShaneypup/scfemoji
 
@@ -16,4 +16,6 @@ register_asset "javascripts/manload.js", :server_side
 register_asset "javascripts/pjsalt.js", :server_side
 register_asset "javascripts/shibez.js", :server_side
 register_asset "javascripts/vaultboy.js", :server_side
+register_asset "javascripts/cookiecat.js", :server_side
+
 
