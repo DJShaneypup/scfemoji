@@ -12,7 +12,7 @@ Emote list
 
 :frankerz: <img src="https://static-cdn.jtvnw.net/emoticons/v1/65/1.0?v=0">
 
-:cookiecat: <img src="http://forums.sippycraft.com/uploads/default/_emoji/cookiecat.png?v=0">
+:cookiecat: <img src="http://i.imgur.com/3c3f8xp.png">
 
 :kapow: <img src="https://static-cdn.jtvnw.net/emoticons/v1/9803/1.0?v=0">
 
