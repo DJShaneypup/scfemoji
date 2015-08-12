@@ -2,31 +2,31 @@ This plugin is to add emojis to the Sippycraft forums.
 
 Emote list
 
-:kappa:
+:kappa: <img src="https://static-cdn.jtvnw.net/emoticons/v1/25/1.0?v=0">
 
-:coolcat:
+:coolcat: <img src="https://static-cdn.jtvnw.net/emoticons/v1/58127/1.0?v=0">
 
-:pjsalt:
+:pjsalt: <img src="https://static-cdn.jtvnw.net/emoticons/v1/36/1.0?v=0">
 
-:vaultboy:
+:vaultboy: <img src="https://static-cdn.jtvnw.net/emoticons/v1/54090/1.0?v=0">
 
-:frankerz:
+:frankerz: <img src="https://static-cdn.jtvnw.net/emoticons/v1/65/1.0?v=0">
 
-:cookiecat:
+:cookiecat: <img src="http://forums.sippycraft.com/uploads/default/_emoji/cookiecat.png?v=0">
 
-:kapow:
+:kapow: <img src="https://static-cdn.jtvnw.net/emoticons/v1/9803/1.0?v=0">
 
-:kappapride:
+:kappapride: <img src="https://static-cdn.jtvnw.net/emoticons/v1/55338/1.0?v=0">
 
-:manload:
+:manload: <img src="http://i.imgur.com/BDyXZYZ.png?v=0">
 
-:shibez:
+:shibez: <img src="https://static-cdn.jtvnw.net/emoticons/v1/27903/1.0?v=0">
 
-:biblethump:
+:biblethump: <img src="https://static-cdn.jtvnw.net/emoticons/v1/86/1.0?v=0">
 
-:datsheffy:
+:datsheffy: <img src="https://static-cdn.jtvnw.net/emoticons/v1/170/1.0?v=0">
 
-:deilluminati:
+:deilluminati: <img src="https://static-cdn.jtvnw.net/emoticons/v1/46248/1.0?v=0">
 
 License:
 
