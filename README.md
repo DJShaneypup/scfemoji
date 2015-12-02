@@ -1,3 +1,5 @@
+THIS IS NOW ABANDONED
+
 This plugin is to add emojis to the Sippycraft forums.
 
 Emote list
